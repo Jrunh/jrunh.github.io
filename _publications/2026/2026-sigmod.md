@@ -5,7 +5,7 @@ selected:       true
 pub:            "International Conference on Management of Data (SIGMOD)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
 semantic_scholar_id: 0d63c5bafba265c199abfbacac3936c6e023d377  # use this to retrieve citation count
 abstract: >-
